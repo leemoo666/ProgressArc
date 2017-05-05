@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--进度条-->
+    <declare-styleable name="ProgressArc">
+        <attr name="progressValue" format="integer" />
+        <attr name="totalValue" format="integer" />
+        <attr name="textValue" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+
+</resources>
